@@ -1059,7 +1059,7 @@ ol li {
 }
 
 
-@media (max-width: 768px) {
+@media (min-width: 992px) and (max-width: 1199px) {
     .home-content {
         flex-direction: column;
     }
